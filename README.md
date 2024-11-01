@@ -1,3 +1,43 @@
+# Urban Aura
+
+**Urban Aura** is a comprehensive and modern e-commerce platform designed to deliver a seamless online shopping experience. This project is built with cutting-edge technologies for fast performance, scalability, and a user-friendly interface.
+
+## Demo
+
+Visit the live demo [here](https://urban-aura-tusha.vercel.app/) 
+
+## Features
+
+- **User Authentication**: Secure login and registration functionality.
+- **Product Browsing**: Detailed product pages with high-quality images and descriptions.
+- **Responsive Design**: Optimized for all devices for a seamless shopping experience.
+- **Search and Filters**: Advanced product filtering and search functionality.
+- **Shopping Cart and Checkout**: Easy-to-use cart and secure checkout process.
+- **Order Tracking**: Users can track their order status in real-time.
+- **Admin Dashboard**: Manage products, orders, and customer information.
+
+## Tech Stack
+
+- **Frontend**: React.js (or Next.js for SSR), Tailwind CSS for styling.
+- **Backend**: Node.js, Express.js for API handling.
+- **Database**: MongoDB for storing user and product data.
+- **Authentication**: JWT (JSON Web Token) for secure user sessions.
+
+
+## ScreenShots
+<img width="1394" alt="Screenshot 2024-11-01 at 6 13 18 PM" src="https://github.com/user-attachments/assets/7c68f387-8cb5-41f4-bf23-30179c144ec0">
+<img width="1470" alt="Screenshot 2024-11-01 at 6 13 32 PM" src="https://github.com/user-attachments/assets/66cb28d8-7f5e-470b-92a5-80952c5a8a84">
+
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/username/urban-aura.git
+   cd urban-aura
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
